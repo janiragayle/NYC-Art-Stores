@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #e0e8d0, #b5c8a8); /* Muted green gradient */
+  color: #5a4632; /* Softer brown for text */
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #533b2a; /* Muted brown */
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
+  letter-spacing: 1.5px;
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: #7a5c47;; /* Softer green */
+  margin-top: 10px;
+  line-height: 1.6;
+  font-weight: lighter;
+}
+
+.List {
+  color: #533b2a;
+}
+
+a {
+  color: #9bbf8f; /* Muted green */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #c7d8b5; /* Light muted green for hover */
+  text-decoration: underline;
+}
+
+.Store-category {
+  
+  color: #4f6d4a ; /* Muted brown for categories */
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.store-card {
+  background-color: #295a85; /* Light blue background */
+  padding: 15px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
