@@ -2,7 +2,7 @@
 
 Submitted by: Janira Gayle
 
-This web app: **insert description**
+This web app: This is a community board listing a selection of NYC art stores that sell supplies for fine art, crochet, sewing, and photography.
 
 Time spent: 4 hours spent in total
 
